@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "mongofiltro",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page1_mongofiltro",
+  "deleted": false,
+  "gitSyncId": "643f670417a9db4faee95a7a_644073d15689b020f575aef1"
+}

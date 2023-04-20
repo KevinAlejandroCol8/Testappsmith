@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "mongofilterList",
+    "pageId": "Product",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Product_mongofilterList",
+  "deleted": false,
+  "gitSyncId": "643f670417a9db4faee95a7a_64407f98687d2c3120d3f47e"
+}
