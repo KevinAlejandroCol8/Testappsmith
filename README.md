@@ -1,3 +1,12 @@
+El repositorio de este proyecto contiene una aplicación de front-end desarrollada en Appsmith que muestra una lista de productos de una tienda en línea. La aplicación tiene las siguientes características:
+
+Lista de productos: Incluye el nombre, descripción y precio de cada producto.
+Filtrado por categoría: Permite filtrar los productos por categoría, por ejemplo, electrónica, ropa, alimentación, etc.
+Ordenamiento por precio: Los productos pueden ser ordenados por precio, de menor a mayor o de mayor a menor.
+Añadir nuevos productos: Se puede agregar nuevos productos a la lista de productos existente.
+Editar productos existentes: Los productos existentes pueden ser editados en la lista.
+
+
 # Testappsmith![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/appsmith_logo_primary.png)
 
 This app is built using Appsmith. Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop components to build dashboards, write logic with JavaScript objects and connect to any API, database or GraphQL source.
